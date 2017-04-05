@@ -1,3 +1,3 @@
 test
 hello world!
-test2
+test2 GPl
